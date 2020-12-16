@@ -1,0 +1,2 @@
+# StuManSys
+student manage system
